@@ -1,0 +1,141 @@
+
+.button{
+text-align:center;
+display:inline-block;
+border: 1px solid gray;
+border-radius:45%;
+color:white;
+font-size:20pt;
+margin-left : 3pt;
+margin-right:6pt;
+margin-top: 6pt;
+margin-bottom: 6pt;
+padding:2.5%;
+background-color:black;
+width: 60pt;
+height:60pt;
+font-family:"arial"
+}
+
+.button:hover{
+border:1.5px solid white;
+font-weight:bolder;
+}
+
+.align{
+display:inline-center;
+margin-left:20pt;
+margin-top: 20pt;
+margin-right:auto;
+}
+
+body{
+background:#3a5078;
+}
+
+.screen2{
+display:inline-center;
+border: 2px inset gray;
+border-radius : 4px;
+background-color:black;
+color:white;
+display:inline-center;
+margin-left:15pt;
+margin-right:20pt;
+height:50pt;
+text-align:right;
+padding:10pt;
+font-size:40pt;
+font-family:"IrisUPC"
+}
+
+.screen1{
+    display:inline-center;
+    border: 2px inset gray;
+    border-radius : 4px;
+    background-color:black;
+    color:white;
+    display:inline-center;
+    margin-left:15pt;
+    margin-right:20pt;
+    height:50pt;
+    text-align:right;
+    padding:10pt;
+    font-size:30pt;
+    font-family:"IrisUPC"
+    }
+    
+.memory{
+    display:inline-center;
+    border: 2px inset gray;
+    border-radius : 4px;
+    background-color:black;
+    color:white;
+    display:inline-center;
+    margin-left:15pt;
+    margin-top: 5%;
+    margin-right:20pt;
+    height:50pt;
+    text-align:right;
+    padding:10pt;
+    font-size:20pt;
+    font-family:"IrisUPC"
+}
+
+.sign{
+text-align:center;
+display:inline-block;
+border: 1px solid orange;
+border-radius:45%;
+color:white;
+font-size:25pt;
+margin-left : 3pt;
+margin-right:6pt;
+margin-top: 6pt;
+margin-bottom: 6pt;
+padding:2.5%;
+background-color:orange;
+width: 60pt;
+height:60pt;
+font-family:"arial";
+}
+
+.sign:hover{
+border:1.5px solid white;
+font-weight:bolder;
+}
+
+.function{
+    text-align:center;
+    display:inline-block;
+    border: 1px solid orange;
+    border-radius:45%;
+    color:white;
+    font-size:20pt;
+    margin-left : 3 pt;
+    margin-right:6pt;
+    margin-top: 6pt;
+    margin-bottom: 6pt;
+    padding:2.5%;
+    background-color:orange;
+    width: 60pt;
+    height: 60pt;
+    font-family:"arial"
+}
+
+.function:hover{
+    border:1.5px solid white;
+    font-weight:bolder;
+}
+
+.shape{
+border:4px outset gray;
+border-radius: 5px;
+padding: 10pt;
+display:inline-block;
+margin-left:370pt;
+margin-right:200pt;
+margin-top: 5%;
+margin-bottom: 5%;
+background-color:#0b1b36;
+}
